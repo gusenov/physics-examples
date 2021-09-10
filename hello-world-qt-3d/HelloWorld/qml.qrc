@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>init.qml</file>
+        <file>QuickViewHolder.qml</file>
+        <file>QuickItemHolder.qml</file>
+    </qresource>
+</RCC>
